@@ -1,4 +1,4 @@
-# Free Stuff Copy Pasta
+# Free Stuff
 
 Rando side note but thought folks would like free resources and tidbits 👀
 
@@ -39,3 +39,4 @@ Rando side note but thought folks would like free resources and tidbits 👀
 - <https://cs50.harvard.edu/x/> - Free courses on Computer Science to help supplement your learning
 - <https://youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp&si=qLdMlr_OgvRpxrBT> - Handmade Hero's intro to C. Great start to watch Casey Muratori make a game from barebones to its own game engine. Tons of insights from someone who worked at RAD game tools
 - <https://app.codecrafters.io/courses> - challenges/guides to build things like interpreters, databases and more from scratch. Can trial a few courses and some are free each month but requires payment for most things.
+- <https://github.com/SBAI-Youness/Free_Computer_Science_Books> - More free programming books!

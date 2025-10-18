@@ -14,7 +14,7 @@ These include questions from the blind 75, which is good, because spaced repetit
 
 Especially in data structures / algorithms you still haven't grasped fully. Lists for those exist and most lists made by someone are fair game tbh
 
-### Keep in Mind:
+### Keep in Mind
 
 - [The 14 patterns](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4) you encounter in most problems, they are extremely useful
 - When there is a new problem, the following problem solving process brings immense clarity and structure:
