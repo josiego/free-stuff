@@ -1,0 +1,41 @@
+# Free Stuff Copy Pasta
+
+Rando side note but thought folks would like free resources and tidbits 👀
+
+- <https://build-your-own.org/> - Redis, Database, etc. Can read the books for free or buy them
+- <https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf> - learn socket programming
+- <https://beej.us/guide/> - beej has a ton more guides from C, Git, Unix interprocess communications, to killing dragons 🐉
+- <https://www.theodinproject.com/> - intro to web dev to advance
+- <https://github.com/alex/what-happens-when> - explains how stuff works
+- <https://fly.io/dist-sys/> - the distributed systems challenges are a great learning experience
+- <https://jvns.ca/wizard-zine.pdf> - best story book ever on how to be a wizard
+- <https://www.keybr.com/> - get good at touch typing
+- <https://roadmap.sh/> - pick a roadmap to figure out where to start
+- <https://www.nand2tetris.org/> - from assembly to Tetris
+- <https://youtube.com/@cmudatabasegroup?si=xI86MAUCvUMYZMyy> - Carnegie Melon University courses for databases
+- <https://frontendmasters.com/blog/vanilla-javascript-todomvc/> - you can do a lot without a framework. Also frontendmasters has some free courses that are good like the data structures and algorithms one
+- <https://internetingishard.netlify.app/> - Web dev from scratch that explains deeply how stuff works
+- <https://css-tricks.com/guides/> - nice css guides to really understand how css do
+- <https://awesome-selfhosted.net/> - awesome resources on self hosting apps
+- <https://kenney.nl/assets> - free 2d and 3d assets for game devs
+- <https://www.gameuidatabase.com/> - database of game UIs for game designers
+- <https://boot.dev> - full intro to backend from Python, Data structures/algorithms to golang, docker and kubernetes. It's free but you have to pay if you want the interactive parts
+- <https://github.com/cheatsnake/backend-cheats> - a white paper for backend devs that touches on everything from backend, security, down to general knowledge and architecture patterns
+- <https://github.com/donnemartin/system-design-primer> - Pretty good primer for getting started on systems design for free
+- <https://protohackers.com/> - server programming challenges. Great for learning to implement protocols
+- <https://grugbrain.dev/> - think like grug, act like grug, become grug developer
+- <https://www.frontendpractice.com/projects> - practice implementing a frontend spec and get graded. Rinse and repeat to get better
+- <https://cssbattle.dev/> - fun way to practice CSS against other players
+- <https://flukeout.github.io/> - learn CSS selectors through an interactive game
+- <https://cssgridgarden.com/> - learn CSS grids through growing a carrot garden
+- <https://flexboxfroggy.com/> - learn CSS flexbox by helping a lil froggy
+- <https://codingfantasy.com/games/css-grid-attack> - Another learn CSS grids through an interactive game
+- <https://github.com/EbookFoundation/free-programming-books> - Free programming books :>
+- <https://sadservers.com/scenarios> - Troubleshooting some sad servers to make them happy (and getting good at linux)
+- <https://learngitbranching.js.org/?locale=en_US> - Learn git visually
+- <https://youtu.be/sSpULGNHyoI?si=f1QVOnaEh9ql45xM> - Helpful talk on architecting large software projects
+- <https://education.github.com/pack> - bunch of free resources for students including access to ChatGPT, other saas products, courses and more
+- <https://github.com/ossu/computer-science> - Path to a free self-taught education in Computer Science!
+- <https://cs50.harvard.edu/x/> - Free courses on Computer Science to help supplement your learning
+- <https://youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp&si=qLdMlr_OgvRpxrBT> - Handmade Hero's intro to C. Great start to watch Casey Muratori make a game from barebones to its own game engine. Tons of insights from someone who worked at RAD game tools
+- <https://app.codecrafters.io/courses> - challenges/guides to build things like interpreters, databases and more from scratch. Can trial a few courses and some are free each month but requires payment for most things.

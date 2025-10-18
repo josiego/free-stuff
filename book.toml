@@ -1,0 +1,8 @@
+[book]
+authors = ["Josie, Go!"]
+language = "en"
+src = "docs"
+title = "Josie's list of free stuff"
+
+[build]
+build-dir = "build"
